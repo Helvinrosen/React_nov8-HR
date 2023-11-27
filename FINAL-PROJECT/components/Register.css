@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modles/max_1200/849b0842156879.56071317318dd.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-size: medium;
+}
+.bodyr
+{
+    background-image: url("https://cimg3.ibsrv.net/ibimg/hgm/1920x1080-1/100/695/bentley-continental-gt-v8_100695627.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    
+}
+.container{
+    
+    position:absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate( 50%,-50%);
+    margin: 0 auto;
+    
+    
+}
+.boxsection
+{
+    
+    background-color: white;
+    gap: 20px;
+    
+    display: grid;
+    place-items: center;
+  
+  border: solid;
+  border-color: aliceblue;
+  border-radius: 10px;
+   font-size: 1rem;
+    padding: 2rem 4rem;
+}
+.box1
+{
+    
+    
+    font-size: large;
+    text-align: center;
+    
+}
+.but
+{
+    width: 80px;
+    height: 50px;
+}
+.rec
+{
+    color: black;
+}
+
+
+

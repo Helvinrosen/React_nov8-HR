@@ -1,0 +1,32 @@
+.homebody
+{
+       background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/849b0842156879.56071317318dd.jpg");
+       background-size: cover;
+       height: 100vh;
+       background-repeat: no-repeat;
+       text-align: center;
+}
+.hbox1
+{
+       display: flex;
+       justify-content: space-evenly;
+       padding: 7%;
+       backdrop-filter: blur(50px);
+}
+.hbox2
+{
+       display: flex;
+       justify-content: space-evenly;
+       padding: 7%;
+       
+}
+.htext
+{
+       justify-content: left;
+       color: white;
+       font-size: x-large;
+       margin-right: 10%;
+}
+.tex{
+       font-size: larger;
+}
